@@ -1,5 +1,5 @@
 document.getElementById('showPopupBtn').addEventListener('click', function () {
-    document.getElementById('popup').style.display = 'flex';
+    document.getElementById('popup').style.display = 'none';
 });
 
 document.getElementById('closePopupBtn').addEventListener('click', function () {
